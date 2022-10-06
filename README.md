@@ -1,8 +1,9 @@
 ### Hi there 👋
+
+### 🚀 About Me
 I am an aspiring security researcher working at Ford as a Cyber Defense Analyst, learning and helping to resolve real-world cyber security threats.
 
-Skills: Penetration testing | Incident Response | Cloud Security | Malware Analysis | Windows digital forensics
-
+### :trophy:	Achievements
 Secured the following organization
 
 [<img src='https://user-images.githubusercontent.com/64733080/193914043-43d755e4-0138-4a5e-ac96-cec9d93c2055.png' alt='google' height='70'>](https://github.com/samjoy26/Honors-awards#google-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,9 +15,16 @@ Secured the following organization
 [<img src='https://user-images.githubusercontent.com/64733080/193918139-ae65926e-9f81-472a-aa9e-bd4909824995.png' alt='hackerone' height='70'>](https://www.linkedin.com/in/sa/) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/64733080/193999327-7793adb3-f381-48d9-8c80-31966849835a.png' alt='bugcrowd' height='70'>](https://www.linkedin.com/in/sa/) &nbsp;&nbsp;&nbsp;&nbsp;  
 
+### 🛠 Skills
+- Penetration testing
+- Incident Response
+- Cloud Security
+- Malware Analysis
+- Windows digital forensics
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sam-joy-herald-immanuel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/samjoy_26/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/samjoy_26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/samjoy_26)  
+### :smiley: Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sam-joy-herald-immanuel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/samjoy_26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/samjoy_26)  
 
 
 
