@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sam Joy
+### Hi there 👋
 I am an aspiring security researcher working at Ford as a Cyber Defense Analyst, learning and helping to resolve real-world cyber security threats.
 
 Skills: Penetration testing | Incident Response | Cloud Security | Malware Analysis | Windows digital forensics
