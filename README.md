@@ -4,7 +4,7 @@
 I am an aspiring security researcher working at Ford as a Cyber Defense Analyst, learning and helping to resolve real-world cyber security threats.
 
 ### :trophy:	Achievements
-Secured the following organization
+Received recognition from the following organizations for reporting Application Security Risks.
 
 [<img src='https://user-images.githubusercontent.com/64733080/193914043-43d755e4-0138-4a5e-ac96-cec9d93c2055.png' alt='google' height='70'>](https://github.com/samjoy26/Honors-awards#google-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/64733080/193913318-015d856f-b819-4df0-a2db-ee6a1018ab32.png' alt='facebook' height='70'>](https://github.com/samjoy26/Honors-awards#rewarded-500-from-facebook-backend-cryptocurrency-project-diem) &nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,12 +15,15 @@ Secured the following organization
 [<img src='https://user-images.githubusercontent.com/64733080/193918139-ae65926e-9f81-472a-aa9e-bd4909824995.png' alt='hackerone' height='70'>](https://github.com/samjoy26/Honors-awards#hackerone---300-reputations--250-private-invites--8-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/64733080/193999327-7793adb3-f381-48d9-8c80-31966849835a.png' alt='bugcrowd' height='70'>](https://github.com/samjoy26/Honors-awards#bugcrowd---12-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp; 
 
+(Click each icon to view the details)
+
 ### 🛠 Skills
 - Penetration testing
 - Incident Response
 - Cloud Security
+- Windows Digital forensics
 - Malware Analysis
-- Windows digital forensics
+
 
 
 ### :smiley: Connect with me
