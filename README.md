@@ -24,7 +24,15 @@ Received recognition from the following organizations for reporting Application 
 - Windows Digital forensics
 - Malware Analysis
 
+### 💬 Invited Talks
 
+#### OWASP SRM Institute of Science and Technology – Student Chapter
+- Delivered a session on “How to kick-start in Bug Bounties, Cybersecurity Work Exposures” to 80+ participants on 24 November 2021. 
+- Session Recording: https://youtube.com/watch?v=6We5iBWdCHA
+
+#### IEEE Computer Society- Student Branch Chapter of Sri Sairam Engineering College	 
+- Presented clear insights on "Ethical Hacking for absolute beginners" to all participating CS and IT students on 20 March 2021 .
+- Event Link: https://edu.ieee.org/in-sairamcs/events2021-2/
 
 ### :smiley: Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sam-joy-herald-immanuel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/samjoy_26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/samjoy_26)  
