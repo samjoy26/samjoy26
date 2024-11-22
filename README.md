@@ -20,11 +20,10 @@ Received recognition from the following organizations for reporting Application 
 (Click each icon to view the details)
 
 ### 🛠 Skills
-- Penetration testing
+- Web Application and API Penetration Testing
+- Threat Hunting
 - Incident Response
 - Cloud Security
-- Windows Digital forensics
-- Malware Analysis
 
 ### 💬 Invited Talks
 
